@@ -1,0 +1,1 @@
+export const background = "https://m.media-amazon.com/images/M/MV5BZDdkZTg0ZjYtNjIzNS00YzM3LWI4NzUtNmJiMWMxYmUwODg1XkEyXkFqcGdeQWFybm8@._V1_.jpg" 
